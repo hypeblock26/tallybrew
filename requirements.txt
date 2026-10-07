@@ -1,0 +1,5 @@
+discord.py
+playwright
+apify-client>=2.0.0
+curl_cffi
+requests
