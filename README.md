@@ -10,7 +10,6 @@
     <a href="https://github.com/hypeblock26/tallybrew/stargazers"><img src="https://img.shields.io/github/stars/hypeblock26/tallybrew?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
     <a href="https://github.com/hypeblock26/tallybrew/forks"><img src="https://img.shields.io/github/forks/hypeblock26/tallybrew?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
     <a href="https://github.com/hypeblock26/tallybrew/issues"><img src="https://img.shields.io/github/issues/hypeblock26/tallybrew?colorA=363a4f&colorB=ed8796&style=for-the-badge"></a>
-    <a href="https://github.com/hypeblock26/tallybrew/commits/main"><img src="https://img.shields.io/github/last-commit/hypeblock26/tallybrew?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
     <a href="https://github.com/hypeblock26/tallybrew/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hypeblock26/tallybrew?colorA=363a4f&colorB=f5bde6&style=for-the-badge"></a>
 </p>
 
