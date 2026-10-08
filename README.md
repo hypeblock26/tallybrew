@@ -620,7 +620,7 @@ Built with:
 &nbsp;
 
 <p align="center">
-  <img width="981" height="981" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/09e780a3-3fa7-40b5-97d7-6153a3002f32" />
+  <img width="250" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/09e780a3-3fa7-40b5-97d7-6153a3002f32" />
 
 </p>
 
