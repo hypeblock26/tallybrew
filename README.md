@@ -1,3 +1,4 @@
+<img width="300" height="59" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/e2d8f89b-80bf-4ca7-8f2c-008e2d05335e" />
 
 <h1 align="center">tallybrew</h1>
 
@@ -620,7 +621,7 @@ Built with:
 &nbsp;
 
 <p align="center">
-  <img width="250" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/1687192a-495e-499c-b9a8-d16f6ac546c0" />
+  <img width="300" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/549e0a8a-b098-4e43-b5df-ae3144b9c708" />
 
 </p>
 
@@ -642,16 +643,4 @@ Built with:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="300" height="59" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/549e0a8a-b098-4e43-b5df-ae3144b9c708" />
