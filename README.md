@@ -621,8 +621,7 @@ Built with:
 &nbsp;
 
 <p align="center">
-  <img width="300" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/549e0a8a-b098-4e43-b5df-ae3144b9c708" />
-
+<img width="600" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/549e0a8a-b098-4e43-b5df-ae3144b9c708" />
 </p>
 
 <p align="center">
@@ -643,4 +642,3 @@ Built with:
 
 
 
-<img width="300" height="59" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/549e0a8a-b098-4e43-b5df-ae3144b9c708" />
