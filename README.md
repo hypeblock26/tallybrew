@@ -620,9 +620,35 @@ Built with:
 &nbsp;
 
 <p align="center">
-  <img src="assets/divider.svg" alt="A sleeping cat next to a coffee mug"/>
+  <img alt="divider" src="https://github.com/user-attachments/assets/ca28f237-9658-4460-905a-f32996d3659d" />
 </p>
 
 <p align="center">
   Brewed by <a href="https://github.com/hypeblock26">hypeblock26</a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
