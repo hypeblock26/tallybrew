@@ -620,12 +620,15 @@ Built with:
 &nbsp;
 
 <p align="center">
-  <img alt="divider" src="https://github.com/user-attachments/assets/ca28f237-9658-4460-905a-f32996d3659d" />
+  <img width="981" height="981" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/09e780a3-3fa7-40b5-97d7-6153a3002f32" />
+
 </p>
 
 <p align="center">
   Brewed by <a href="https://github.com/hypeblock26">hypeblock26</a>
 </p>
+
+
 
 
 
