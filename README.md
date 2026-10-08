@@ -1,4 +1,3 @@
-<img width="300" height="59" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/e2d8f89b-80bf-4ca7-8f2c-008e2d05335e" />
 
 <h1 align="center">tallybrew</h1>
 
@@ -621,14 +620,18 @@ Built with:
 &nbsp;
 
 <p align="center">
-      <img width="800" alt="Cat-sleeping-on-the-wall" src="cat.svg" />
-
+<img width="1000" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/493ac359-e54a-4803-9fd1-49e70792dcba" />
 
 </p>
 
 <p align="center">
   Brewed by <a href="https://github.com/hypeblock26">hypeblock26</a>
 </p>
+
+
+
+
+
 
 
 
