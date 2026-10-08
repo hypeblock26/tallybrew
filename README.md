@@ -2,7 +2,7 @@
 <h1 align="center">tallybrew</h1>
 
 <p align="center">
-  A Discord bot that brews your follower counts like a fresh cup of coffee<br/>
+  A Discord bot that brews your follower counts<br/>
   and serves them right in your channel names.
 </p>
 
