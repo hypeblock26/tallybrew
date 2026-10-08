@@ -616,7 +616,6 @@ Built with:
 - [curl_cffi](https://github.com/lexiforest/curl_cffi)
 - [Requests](https://requests.readthedocs.io)
 
-The colors of this README follow the Macchiato palette from [Catppuccin](https://github.com/catppuccin/catppuccin).
 
 &nbsp;
 
