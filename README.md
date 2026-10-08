@@ -621,8 +621,8 @@ Built with:
 &nbsp;
 
 <p align="center">
-    
-  <img width="1000" alt="Cat-sleeping-on-the-wall" src="cat.svg" />
+      <img width="800" alt="Cat-sleeping-on-the-wall" src="cat.svg" />
+
 
 </p>
 
